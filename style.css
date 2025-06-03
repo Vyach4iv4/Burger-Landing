@@ -108,7 +108,7 @@ img{
     margin-top: -100px;
     padding: 240px 0;
 
-    background-image: url("/images/welcome-bg.jpg");
+    background-image: url("images/welcome-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -307,19 +307,19 @@ img{
 }
 
 .card-queen{
-    background-image: url("/images/product-1.jpg");
+    background-image: url("images/product-1.jpg");
 }
 
 .card-hut{
-    background-image: url("/images/product-2.jpg");
+    background-image: url("images/product-2.jpg");
 }
 
 .card-king{
-    background-image: url("/images/product-3.jpg");
+    background-image: url("images/product-3.jpg");
 }
 
 .card-papa{
-    background-image: url("/images/product-4.jpg");
+    background-image: url("images/product-4.jpg");
 }
 
 
@@ -348,7 +348,7 @@ img{
 }
 
 .feedback__text::before{
-    content: url("/images/icons/quote.svg");
+    content: url("images/icons/quote.svg");
 }
 
 .feedback__desc {
@@ -459,11 +459,11 @@ img{
 }
 
 .footer__link-mail::before{
-    content: url("/images/icons/mail.svg");
+    content: url("images/icons/mail.svg");
 }
 
 .footer__link-web::before {
-    content: url("/images/icons/global.svg");
+    content: url("images/icons/global.svg");
 }
 
 .footer__list {
